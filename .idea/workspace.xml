@@ -7,29 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a042ad7-fa64-4a30-aba3-013b8be3c99c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/App-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/__snapshots__/App-test.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/robot-dev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/robot-prod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/StyledText.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TabBarIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/__tests__/StyledText-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/__tests__/__snapshots__/StyledText-test.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/Colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/useLinking.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/HomeScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/LinksScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StyledText.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/StyledText.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/__snapshots__/StyledText-test.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/components/__tests__/__snapshots__/StyledText-test.js.snap" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,6 +103,9 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7a042ad7-fa64-4a30-aba3-013b8be3c99c" name="Default" comment="" />
@@ -159,5 +143,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
 </project>
