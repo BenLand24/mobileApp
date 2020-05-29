@@ -2,7 +2,7 @@ Mobile application IOS AND ANDROID have been made in react native (expo) languag
 
 https://expo.io/@benland/rocketelevator
 
-the android have been build so you can download .apk here:
-****
+Click the link above to test the project by downloading it with expo or "open project in browser"
+
 
 The login information is The email of all employees
