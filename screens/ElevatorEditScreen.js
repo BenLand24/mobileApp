@@ -53,7 +53,7 @@ export default class App extends React.Component {
     var status = this.props.navigation.state.params.elevator.status;
 
     fetch(
-      "https://rocket-restapi.herokuapp.com/api/interventions/" + elevatorid,
+      "https://rocketele.herokuapp.com/api/elevators/" + elevatorid,
 
       {
         credentials: "include",

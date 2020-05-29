@@ -23,7 +23,7 @@ export default class App extends React.Component {
       error: null
     };
   }
-  baseURL = "https://rocket-restapi.herokuapp.com";
+  baseURL = "https://rocketele.herokuapp.com";
 
   componentWillMount() {
     BackHandler.addEventListener(
@@ -46,7 +46,7 @@ export default class App extends React.Component {
 
   getData = ev => {
     this.setState({ loaded: false, error: null });
-    let url = this.baseURL + "/api/interventions/";
+    let url = this.baseURL + "/api/elevators";
     let h = new Headers();
 
     let req = new Request(url, {
